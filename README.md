@@ -1,7 +1,9 @@
 Score/Performance Alignment Demonstration
 =========================================
 
-A live demonstration can be found at http://www.ccarh.org/chopin/mazurka24n2
+A live demonstration can be found at http://www.ccarh.org/chopin/op24n2 .  If
+you are using Chrome or Firefox (but not Safari), try clicking on notes
+in the score to start the audio playback from that note.
 
 There are three main components for preparation of the animated score:
 
@@ -30,7 +32,7 @@ EPS files in SCORE, then converted into SVG image with
 [seps2svg](https://github.com/th-we/seps2svg).  When preparing the SCORE
 data for printing, note serial numbers are added as Font-99 markers which
 are converted into PostScript comments in the EPS output from SCORE. These
-comments are then processed and converted into SVG &lgt;g&gt;
+comments are then processed and converted into SVG &lt;g&gt;
 elements with class tags indicating noteon and noteoff times in terms of
 quarter notes for the note (as well as any other interesting class tags,
 such as the current measure, the chord groupings, beam groupings, item
