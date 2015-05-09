@@ -46,7 +46,7 @@ eps:
 post: insert pad svg scale embed uniq
 
 install:
-	cp -f *.svg ../
+	cp -f *.svg $(IDIR)
 
 clean:
 	-rm *.pmx  # created with "make pre"
