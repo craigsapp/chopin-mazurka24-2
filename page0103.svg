@@ -854,7 +854,7 @@ M3801 -2096
 L3801 -3734
 "/>
 </g>
-<g class="noteon-31 noteoff-32">
+<g class="noteon-31 noteoff-32 trill">
 <use transform="translate(3801,535) scale(.800)" stroke-width="33.383" xlink:href="#P00page0103"/>
 <path  d="
 M3801 493

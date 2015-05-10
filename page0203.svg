@@ -1481,7 +1481,7 @@ M25644 -2290
 L25644 -3228
 "/>
 </g>
-<g class="noteon-121 noteoff-122">
+<g class="noteon-121 noteoff-122 trill">
 <use transform="translate(25644,-2248) scale(.800)" stroke-width="33.383" xlink:href="#P00page0203"/>
 <path stroke-width="40.0600" d="
 M25544 -2388

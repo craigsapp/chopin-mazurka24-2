@@ -1046,7 +1046,7 @@ M9349 -10873
 L9349 -12511
 "/>
 </g>
-<g class="noteon-127 noteoff-128">
+<g class="noteon-127 noteoff-128 trill">
 <use transform="translate(9349,-8343) scale(.800)" stroke-width="33.383" xlink:href="#P00page0204"/>
 <path  d="
 M9349 -8385

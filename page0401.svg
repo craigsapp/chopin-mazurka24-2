@@ -1801,7 +1801,7 @@ M26803 9737
 L26803 8099
 "/>
 </g>
-<g class="noteon-277 noteoff-278">
+<g class="noteon-277 noteoff-278 trill">
 <use transform="translate(26803,12321) scale(.800)" stroke-width="33.383" xlink:href="#P00page0401"/>
 <path stroke-width="40.0600" d="
 M26703 12181

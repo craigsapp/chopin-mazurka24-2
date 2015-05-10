@@ -1,2 +1,8 @@
 
 .*
+
+production_files/*.txt
+production_files/*.eps
+production_files/*.svg
+production_files/*.pmx
+

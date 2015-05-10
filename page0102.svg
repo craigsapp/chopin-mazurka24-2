@@ -1537,7 +1537,7 @@ M21183 4238
 L21183 2600
 "/>
 </g>
-<g class="noteon-25 noteoff-26">
+<g class="noteon-25 noteoff-26 trill">
 <use transform="translate(21183,7010) scale(.800)" stroke-width="33.383" xlink:href="#P00page0102"/>
 <path stroke-width="40.0600" d="
 M21083 6870
